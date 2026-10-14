@@ -1,10 +1,10 @@
 <h2 align="center">Alice Tavares</h2>
 
 <p align="center">
-Graduanda em Tecnologia em Sistemas para Internet (TSI) pelo IFPB - Campus Guarabira.<br>
+Graduada em Tecnologia em Sistemas para Internet (TSI) pelo IFPB - Campus Guarabira.<br>
 Entusiasta de programação e Linux.<br>
 Gosto de música, programação e jogos de tabuleiro.<br>
-Atualmente, busco um estágio na área de T.I. para aplicar e expandir meus conhecimentos.
+Atualmente, busco um emprego na área de T.I. para aplicar e expandir meus conhecimentos.
 </p>
 
 ---
